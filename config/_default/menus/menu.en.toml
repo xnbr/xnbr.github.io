@@ -1,0 +1,8 @@
+[[main]]
+  name = "About"
+  url = "about/"
+  weight = 2
+[[main]]
+  name = "Portfolio"
+  url = "categories/development/"
+  weight = 3
